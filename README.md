@@ -1,2 +1,0 @@
-# loretta-proposal
-love
